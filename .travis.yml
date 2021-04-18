@@ -1,6 +1,6 @@
 
 sudo: required
-servives:
+services:
   - docker
 
 before_install:
